@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Labs/lab7.c
+lab7.h
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Labs/lab7.h
+stdio.h
+-
+math.h
+-
+
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Labs/lab7.h
+stdlib.h
+-
+stdint.h
+-
+
