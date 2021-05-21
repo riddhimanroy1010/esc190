@@ -1,0 +1,3 @@
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Exam Prep/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Exam Prep/cmake-build-debug/CMakeFiles/Exam_Prep.dir
+C:/Users/riddh/OneDrive - University of Toronto/First Year/1W/ESC190/C/Exam Prep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
